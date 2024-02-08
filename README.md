@@ -1,2 +1,13 @@
 # moduleSixChallenge
-homework assignment for week 6
+
+## Desciption
+
+Creating a weather app to display server-side api's for week six challenge.
+
+## Credit
+
+N/A
+
+## License
+
+See MIT license in repo
