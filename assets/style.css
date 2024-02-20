@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    width: auto;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+header {
+    background-color: whitesmoke;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    background-color: white;
+    height: 700px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.bigWord {
+    color: red;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px violet;
+}
+
+.card {
+    background-color: cornsilk;
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin: 30px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+
+.card:hover {
+    transform: scale(1.025);
+}
+
+footer {
+    text-align: center;
+}
